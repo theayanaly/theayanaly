@@ -1,4 +1,8 @@
-# Hi there, I'm Ayan 👋
+<h1 align="center">Hi there, I'm Ayan 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Learning+Docker+%26+Kubernetes" />
+</p>
 
 ### 🚀 About Me
 - 🔭 Focus: Aspiring DevOps & Cloud Engineer
